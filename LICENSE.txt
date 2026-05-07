@@ -1,0 +1,29 @@
+LaunchPad Template License (Commercial)
+Version 1.0
+Copyright (c) 2026
+
+By purchasing, downloading, or using this template, you agree to the terms below.
+
+1) Permitted Use
+- You may use this template for personal and commercial projects.
+- You may modify the template for your own client or company projects.
+- You may deploy finished websites/apps built from this template.
+
+2) Prohibited Use
+- You may not resell, redistribute, sublicense, or share this template source code as-is.
+- You may not publish this template (or substantially similar source) as another template/product.
+- You may not include this template in a downloadable theme bundle or UI kit resale pack.
+
+3) Single Buyer Scope
+- One purchase grants usage rights to one buyer (individual/company).
+- If multiple companies/entities need separate use, each must purchase a separate license.
+
+4) Warranty & Liability
+- This template is provided "as is", without warranty of any kind.
+- The author is not liable for any claim, damages, or other liability arising from use.
+
+5) Support & Updates
+- Support and update terms are defined in the product listing.
+
+If you need an extended/multi-entity license, contact the seller directly.
+
